@@ -7,6 +7,6 @@ Several regression machine learning algorithms are trained and tested for the tr
 Out of the different tested algorithms, Random Forest Regression gave the highest cofficient of determinent.
 
 I was among the top 50 in the leaderboard for this data driven competition at the time of publishing this repository.
-
+This is a single person autonumous project, which I have completed in one and half days.
 
 Thanks for reading my project.
